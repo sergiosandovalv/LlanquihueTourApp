@@ -35,6 +35,7 @@ El sistema permite mostrar el listado completo de tours, filtrar aquellos perten
 # 🧱 Estructura general del proyecto
 
 ```text
+
 LlanquihueTourApp/
 ├── pom.xml
 ├── .gitignore
@@ -54,6 +55,7 @@ LlanquihueTourApp/
         │               └── Validador.java
         └── resources/
             └── tours.txt
+
 ```
 
 
