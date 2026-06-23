@@ -127,6 +127,7 @@ El resultado de una búsqueda simple por nombre de tour.
 ===== BÚSQUEDA DE TOUR =====
 
 ===== DATOS DEL TOUR =====
+
 Nombre : Frutillar
 
 Tipo   : Familiar
