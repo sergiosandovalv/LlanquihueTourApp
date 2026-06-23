@@ -19,15 +19,25 @@ El sistema desarrollado en Java permite gestionar información de tours turísti
 La aplicación implementa conceptos fundamentales de Programación Orientada a Objetos, tales como:
 
 -Encapsulamiento.
+
 -Constructores.
+
 -Getters y Setters.
+
 -Sobrescritura de métodos mediante toString().
+
 -Composición entre clases.
+
 -Manejo de archivos de texto.
+
 -Uso de colecciones ArrayList.
+
 -Estructuras de control if y while.
+
 -Manejo de excepciones mediante try-catch.
+
 -Validaciones básicas.
+
 -Generación de archivo ejecutable .jar mediante Maven.
 
 El sistema permite mostrar el listado completo de tours, filtrar aquellos pertenecientes a la categoría Familiar y realizar una búsqueda simple por nombre de tour.
