@@ -1,5 +1,0 @@
-Saltos del Petrohué;Aventura;25000
-Volcán Osorno;Naturaleza;30000
-Lago Todos los Santos;Familiar;18000
-Frutillar;Familiar;18000
-Puerto Octay;Naturaleza;30000
