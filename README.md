@@ -35,9 +35,27 @@ El sistema permite mostrar el listado completo de tours, filtrar aquellos perten
 # 🧱 Estructura general del proyecto
 
 ```text
-LlanquihueTourApp/ ├── pom.xml ├── .gitignore └── src/ └── main/ ├── java/ │ └── com/ │ └── LlanquihueTourapp/ │ ├── app/ │ │ └── Main.java │ ├── data/ │ │ └── GestorDatos.java │ ├── model/ │ │ ├── Tour.java │ │ └── GuiaTuristico.java │ └── util/ │ └── Validador.java └── resources/ └── tours.txt
-
+LlanquihueTourApp/
+├── pom.xml
+├── .gitignore
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/
+        │       └── LlanquihueTourapp/
+        │           ├── app/
+        │           │   └── Main.java
+        │           ├── data/
+        │           │   └── GestorDatos.java
+        │           ├── model/
+        │           │   ├── Tour.java
+        │           │   └── GuiaTuristico.java
+        │           └── util/
+        │               └── Validador.java
+        └── resources/
+            └── tours.txt
 ```
+
 
 #  Descripción de paquetes:
 
