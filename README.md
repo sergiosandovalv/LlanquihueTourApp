@@ -128,6 +128,9 @@ El resultado de una búsqueda simple por nombre de tour.
 
 ===== DATOS DEL TOUR =====
 Nombre : Frutillar
+
 Tipo   : Familiar
+
 Precio : $18000
+
 Especialidad : Familiar
